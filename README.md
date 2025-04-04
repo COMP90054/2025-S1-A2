@@ -463,9 +463,12 @@ Don't forget there are a host of other resources to help with model building and
 
 ## Submission Instructions
 
-Your submission has **two** parts, both due on the same day (Wednesday 16th April 18:00):
+Your submission has **three** parts, the first of which is due *prior to viewing the solution*:
+* a **commit** in your repository that contains your domain and problem files, pushed to your Assignment 2 GitHub repository. Like Assignment 1, **tag** this commit with **submission** to highlight that it is the commit you'd like us to look at.
+
+And the remaining two due on the same day (Wednesday 16th April 18:00):
 * a **TurnItIn-readable PDF** report file submission on [Canvas --> Assignments --> Assignment 2 - PDDL](https://canvas.lms.unimelb.edu.au/courses/211178/assignments/548326); 
-* a submission certification form on [Canvas --> Assignment -> Assignment 2 - Self-Certification](https://canvas.lms.unimelb.edu.au/courses/211178/assignments/558695).
+* a completed [submission certification form](https://docs.google.com/forms/d/e/1FAIpQLSeE7xnQkhRaRS0nXGMal1Ya4QZ-unScguJSQ7wBjnhv0Y15rA/viewform?usp=sharing).
 
 
 ### PDF report submission
@@ -484,11 +487,11 @@ Your submission should contain a report that includes:
 <!-- How you choose to lay out the report is entirely up to you. We recommend a sub-section for each question, with each sub-section containing the action model, problem instances, and the self evaluation. However, if you think another layout is better for your report, feel free to do that. -->
 
 > **Tip:**
-> There will be a **sample solution** released on **Monday 13th April**. Please stay tuned and try to utilise the sample solution to write your self evaluation.  
+> There will be a **sample solution** released on **Monday 13th April**. Please stay tuned and try to utilise the sample solution to write your self evaluation. Make sure to **push** your final commit prior to viewing the **sample solution**.
 
 ### A2 certification form
 
-Make sure you fill in the [A2 certification form](https://canvas.lms.unimelb.edu.au/courses/211178/assignments/558695). 
+Make sure you fill in the [A2 certification form](https://docs.google.com/forms/d/e/1FAIpQLSeE7xnQkhRaRS0nXGMal1Ya4QZ-unScguJSQ7wBjnhv0Y15rA/viewform?usp=sharing). 
 
 > **Warning:**
 > Non-certified submissions will attract **zero** marks.
