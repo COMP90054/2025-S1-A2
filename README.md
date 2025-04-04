@@ -464,8 +464,8 @@ Don't forget there are a host of other resources to help with model building and
 ## Submission Instructions
 
 Your submission has **two** parts, both due on the same day (Wednesday 16th April 18:00):
-* a **TurnItIn-readable PDF** report file submission on Canvas --> Assignments --> Assignment 2; 
-* a submission certification form.
+* a **TurnItIn-readable PDF** report file submission on [Canvas --> Assignments --> Assignment 2 - PDDL](https://canvas.lms.unimelb.edu.au/courses/211178/assignments/548326); 
+* a submission certification form on [Canvas --> Assignment -> Assignment 2 - Self-Certification](https://canvas.lms.unimelb.edu.au/courses/211178/assignments/558695).
 
 
 ### PDF report submission
@@ -488,7 +488,7 @@ Your submission should contain a report that includes:
 
 ### A2 certification form
 
-Make sure you fill in the [A2 certification form](https://forms.gle/pkSZ2o22Xd4yTcez8). 
+Make sure you fill in the [A2 certification form](https://canvas.lms.unimelb.edu.au/courses/211178/assignments/558695). 
 
 > **Warning:**
 > Non-certified submissions will attract **zero** marks.
