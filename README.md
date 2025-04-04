@@ -57,18 +57,18 @@ There were also some additional positive but critical views on ungrading:
 
 ## The Domain - City Tram Scheduling
 
-*Help everyone catch the Route A tram to University!*
+*Help everyone catch the Route S tram to University!*
  
 The city is undergoing a large amount of construction and hopes to revitalise its tram network with a brand new set of rails. But due to a scandal embroiling both the middle and upper management of Darling Trams, no routes or scheduling for the trams has been carried out and all trams are in chaos.
 
-At 8am on Monday, the Route A tram is set to leave from outside your house and take you to the University's tram stop. With the Monday AI Lecture to get to, the tram will need your help to get you to class.
+At 8am on Monday, the Route S tram is set to leave from outside your house and take you to the University's tram stop. With the Monday AI Lecture to get to, the tram will need your help to get you to class.
 
 Here are the basic facts about the tram scheduling problem domain:
 - The city is simplified into **track** segments.
 - Each track can be **connected** to one or more **destination** track segments, though they will connect to at most one **switched** destination track at a time. The switched destination track is the track segment that trams on the track segment will proceed to when moving.
 - Each track may have a **tram** on it, or may be empty.
-- One of the **track** segments is the **destination** for the Route S tram (the university).
-- One of the **tracks** starts with the **Route S tram** on it.
+- One of the **track** segments is the goal for the Route S tram (the university).
+- One of the **track** segments starts with the **Route S tram** on it.
 
 Despite the management meltdown, the operations centre provides the Route S tram with the status of all tracks and trams. The tram also has special priveliges that are not normally given to tram drivers when everything is working well such as picking its own route and asking powered trams to advance. If the Route S traverses the same track multiple times, the driver will lose faith in your directions, so once the tram leaves a track, it cannot be visited again.
 
@@ -405,7 +405,7 @@ The criteria for code marking will be (**assessed by yourself in the self evalua
 
 The criteria for self evaluation quality will be (**assessed by the markers**):
 - 1 point for the completeness of your self evaluation (whether you covered enough information)
-- 1 point for the justification of your self evaluation (whether the marks you assigned to your self is justified)
+- 1 point for the justification of your self evaluation (whether the marks you assigned to your self have been explicitly justified)
 - 1 point for the comprehensiveness of your self evaluation (whether the marker can understand how you solve those tasks without reading your code)
 <!-- Change the domain and problem files in the folder [pddl_template](pddl_template).  -->
 
