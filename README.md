@@ -163,6 +163,7 @@ A sample plan for this problem instance would look like:
 9. (move cell2 cell1)
 -->
 
+> [!Tip]
 > **Please note, each action's name and its parameters are just examples, the plan will vary based on your implementation.**
 
 ### Problem 2
@@ -229,6 +230,8 @@ A sample plan for this problem instance would look like:
 10. (move track6 track9)
 11. (switch track9 track8 track10)
 12. (move track9 track10)
+    
+> [!Tip]
 > **Please note, each action's name and its parameters are just examples, the plan will vary based on your implementation.**
 
 
@@ -370,7 +373,7 @@ A sample plan for this problem instance would look like:
 -->
 
 
-
+> [!Tip]
 > **Please note, each action's name and its parameters are just examples, the plan will vary based on your implementation.**
 
 # Planimated Example Solution (Optional)
@@ -486,14 +489,14 @@ Your submission should contain a report that includes:
 
 <!-- How you choose to lay out the report is entirely up to you. We recommend a sub-section for each question, with each sub-section containing the action model, problem instances, and the self evaluation. However, if you think another layout is better for your report, feel free to do that. -->
 
-> **Tip:**
+> [!Tip]
 > There will be a **sample solution** released on **Monday 13th April**. Please stay tuned and try to utilise the sample solution to write your self evaluation. Make sure to **push** your final commit prior to viewing the **sample solution**.
 
 ### A2 certification form
 
 Make sure you fill in the [A2 certification form](https://docs.google.com/forms/d/e/1FAIpQLSeE7xnQkhRaRS0nXGMal1Ya4QZ-unScguJSQ7wBjnhv0Y15rA/viewform?usp=sharing). 
 
-> **Warning:**
+> [!Warning]
 > Non-certified submissions will attract **zero** marks.
 
 
