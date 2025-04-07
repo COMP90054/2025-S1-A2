@@ -4,7 +4,7 @@ You must read fully and carefully the assignment specification and instructions 
 
 * **Course:** COMP90054 AI Planning for Autonomy @ Semester 1, 2025
 * **Instructors:** Associate Professor Joseph West and Dr Sarita Rosenstock
-* **Deadline:** Wednesday 15th April, 2025 @ 18:00 (middle of Week 7)
+* **Deadline:** Wednesday 16th April, 2025 @ 18:00 (middle of Week 7)
 * **Course Weight:** 10%
 * **Assignment type:** Individual
 * **ILOs covered:** 1, 2, and 3
@@ -330,7 +330,7 @@ digraph G {
 A sample plan for this problem instance would look like:
 
 1. (switch track0 track1 track5)
-2. (request track3 track5 tram3 track10)
+2. (request track0 track5 tram3 track10)
 3. (move track0 track5)
 4. (request track5 track10 tram3 track15)
 5. (move track5 track10)
